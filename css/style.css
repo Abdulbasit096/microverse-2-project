@@ -15,7 +15,7 @@ body{
     object-fit: contain;
 }
 
-#nav-link{
+.nav-link{
     margin-left: 4rem;
     
 }
